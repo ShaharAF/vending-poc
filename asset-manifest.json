@@ -1,0 +1,12 @@
+{
+  "main.js": "/vending-poc/static/js/main.b5acd9b2.chunk.js",
+  "main.js.map": "/vending-poc/static/js/main.b5acd9b2.chunk.js.map",
+  "runtime~main.js": "/vending-poc/static/js/runtime~main.7390d84f.js",
+  "runtime~main.js.map": "/vending-poc/static/js/runtime~main.7390d84f.js.map",
+  "static/js/2.00c9e843.chunk.js": "/vending-poc/static/js/2.00c9e843.chunk.js",
+  "static/js/2.00c9e843.chunk.js.map": "/vending-poc/static/js/2.00c9e843.chunk.js.map",
+  "index.html": "/vending-poc/index.html",
+  "precache-manifest.6eb203514a99d82ffcd7f1391ff4848c.js": "/vending-poc/precache-manifest.6eb203514a99d82ffcd7f1391ff4848c.js",
+  "service-worker.js": "/vending-poc/service-worker.js",
+  "static/media/AppsFlyer.png": "/vending-poc/static/media/AppsFlyer.f7eae0d3.png"
+}
